@@ -1,2 +1,2 @@
 # LearningSQL
-Trying to SQL and practice everyday
+Trying to Learn SQL and practice everyday
